@@ -145,7 +145,7 @@ public class MainActivity extends ActionBarActivity {
             //MainActivity.this.progress.setProgress(0);
             if(isConnected){
                 progressDialog = ProgressDialog.show(MainActivity.this, "",
-                        "Eddy El Donia Ta3m ....");
+                        "Eddy El Donia Ta3m ...");
             }else{
                 progressDialog = ProgressDialog.show(MainActivity.this, "",
                         "No Internet Connection :(");
